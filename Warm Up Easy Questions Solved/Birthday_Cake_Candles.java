@@ -1,3 +1,8 @@
+// Challenge link : https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
+
+// Git Hub REPO Link :  https://github.com/piyushpatelcodes/100-Days-Java-Hackerrank
+
+
 import java.util.*;
 
 public class Birthday_Cake_Candles{
